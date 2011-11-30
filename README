@@ -1,0 +1,2 @@
+This is a plugin for cubepoints for Wordpress. It protects a page without deducting points when a user views it.
+You have to have a certain level of points to view the page but it won't deduct them.
